@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "arbf5141e09": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
