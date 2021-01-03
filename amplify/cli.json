@@ -1,6 +1,6 @@
 {
   "features": {
-    /*
+    
     "graphqltransformer": {
       "addmissingownerfields": true,
       "validatetypenamereservedwords": true,
@@ -15,6 +15,6 @@
     },
     "codegen": {
       "useappsyncmodelgenplugin": true
-    }*/
+    }
   }
 }
