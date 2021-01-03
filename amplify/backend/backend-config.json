@@ -7,11 +7,5 @@
       "customAuth": false
     }
   },
-  "function": {
-    "arb734b1b0a": {
-      "build": true,
-      "providerPlugin": "awscloudformation",
-      "service": "Lambda"
-    }
-  }
+  "function": {}
 }
